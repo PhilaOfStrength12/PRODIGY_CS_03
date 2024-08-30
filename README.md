@@ -1,0 +1,1 @@
+Password complexity checking is a key practice in cybersecurity that aims to strengthen the authentication process and protect digital assets. In order to make sure that passwords are resistant to several malicious strategies, such brute force and dictionary assaults, this procedure entails assessing and implementing certain requirements.
